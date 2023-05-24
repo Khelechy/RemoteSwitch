@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HQfXqX12LKDTchcyyEG1TVXJ8rP6tXEkgTkGfvcM4Q8=",
+  "Source": "RemoteSwitch.Console",
+  "BasePath": "_content/RemoteSwitch.Console",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
