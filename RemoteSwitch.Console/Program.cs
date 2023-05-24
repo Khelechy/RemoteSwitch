@@ -2,7 +2,7 @@ var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
 app.MapGet("/", () => "Helo world");
-app.MapGet("/control/off", () => {
+app.MapGet("/control/switch-off", () => {
     System.Diagnostics.Process.Start("Shutdown", "-s -f -t 00");
 });
 
